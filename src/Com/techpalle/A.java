@@ -1,5 +1,5 @@
 package  Com.techpalle;
 public class A
 {
-  int i;
+  int i=20;
 }
